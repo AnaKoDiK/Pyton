@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot('7869838514:AAFquOoA6JS8I02dKY7oT-TKjnjcADGXtvM')
+bot = telebot.TeleBot()
 
 characters = [
     'Нахида', 'Кинич', 'Фурина', 'Кокоми', 'Лини',
